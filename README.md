@@ -3,7 +3,7 @@
 <img align="right" src="https://github.com/user-attachments/assets/d0efea37-4f71-4a00-b91c-e90c8ab53f8f" width="350">
 
 <h3>
-  Summer | lvl20 | 3rd yr Comp Sci Student
+  Summer | lvl20 | 3rd yr Software Engineering Student
 </h3>
 
 
