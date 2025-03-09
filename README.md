@@ -25,8 +25,10 @@ I LOVE games and art . I love drawing PLS talk to me about games.
 also if u havent noticed my favorite game is detroit become human for reasons we'll never guess.
 
 <hr>
+
 <h2> also look at my cool cat who helps me code :)) </h2>
 
 <img align="left" src="https://github.com/user-attachments/assets/896ffa40-c3b9-436b-8ea1-1118aacb6dea" width="350">
+
 
 
