@@ -12,9 +12,9 @@
 {
    Skills = new[] { "C#", "Java", "ASP.NET", "Azure" },
 
-CurrentlyLearning = new[] { "C", "C++", "x86 Assembly" },
-// IM kinda bad at these haha im someone who constantly
-// wants to learn things :))
+CurrentlyLearning = new[] { "modding stuff, so a bit of assembly,c and c++ :)" },
+// IM kinda bad at these haha buut i am someone who constantly
+// wants to learn things and self improve :))
 
   FunFact = "Ive recently really gotten into how games are
   made and have also been experimenting with ghidra for funsies"
@@ -23,5 +23,9 @@ CurrentlyLearning = new[] { "C", "C++", "x86 Assembly" },
   
 I LOVE games and art . I love drawing PLS talk to me about games. 
 also if u havent noticed my favorite game is detroit become human for reasons we'll never guess.
+
+<hr>
+a<h2> also look at my cool cat who helps me code :)) </h2>
+![Uploading image.jpeg…]()
 
 
