@@ -10,11 +10,9 @@
 ```C#
  var summer = new
 {
-   Skills = new[] { "C#", "Java", "ASP.NET", "Azure" },
+   Skills = new[] { "C#", "Java", ".NET", "Azure" },
 
-CurrentlyLearning = new[] { "modding stuff, so a bit of assembly,c and c++ :)" },
-// IM kinda bad at these haha buut i am someone who constantly
-// wants to learn things and self improve :))
+CurrentlyLearning = new[] { "Kotlin","Mobile Development","Docker"},
 
   FunFact = "Ive recently really gotten into how games are
   made and have also been experimenting with ghidra for funsies"
@@ -28,7 +26,13 @@ also if u havent noticed my favorite game is detroit become human for reasons we
 
 <h2> also look at my cool cat who helps me code :)) </h2>
 
-<img align="left" src="https://github.com/user-attachments/assets/896ffa40-c3b9-436b-8ea1-1118aacb6dea" width="350">
+<img align="left" src="https://github.com/user-attachments/assets/896ffa40-c3b9-436b-8ea1-1118aacb6dea" height="340">
+
+<p style="text-align: center; margin-top: auto;">literally me btw : </p>
+<img src="https://github.com/user-attachments/assets/17decaae-95e6-49ee-8c63-1d1601675292" height="300">
+
+
+
 
 
 
