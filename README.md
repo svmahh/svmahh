@@ -5,7 +5,7 @@
 <h3>
   Summer | lvl20 | 3rd yr Software Engineering Student
 </h3>
-
+<h4>I have too many hobbies</h2>
 
 ```C#
  var summer = new
@@ -16,6 +16,8 @@ CurrentlyLearning = new[] { "Kotlin","Mobile Development","Docker"},
 
   FunFact = "Ive recently really gotten into how games are
   made and have also been experimenting with ghidra for funsies"
+
+  Others = new[] { "Substance 3d", "Touch-designer", "After Effects", "SOME*** blender" },
 };
 ```
   
