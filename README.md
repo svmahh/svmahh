@@ -10,9 +10,10 @@
 ```C#
  var summer = new
 {
-   Skills = new[] { "C#", "Java", ".NET", "Azure" },
+   Skills = new[] { "C#", "Java", ".NET", "Azure",
+"Kotlin","Mobile Development","Docker" },
 
-CurrentlyLearning = new[] { "Kotlin","Mobile Development","Docker"},
+CurrentlyLearning = new[] {"laravel + PHP"},
 
   FunFact = "Ive recently really gotten into how games are
   made and have also been experimenting with ghidra for funsies"
