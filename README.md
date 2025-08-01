@@ -21,6 +21,9 @@ CurrentlyLearning = new[] {"laravel + PHP"},
   Others = new[] { "Substance 3d", "Touch-designer", "After Effects", "SOME*** blender" },
 };
 ```
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=svmahh" alt="svmahh" /></a> </p>
+
+---
   
 I LOVE games and art . I love drawing PLS talk to me about games. 
 also if u havent noticed my favorite game is detroit become human for reasons we'll never guess.
