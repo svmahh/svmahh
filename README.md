@@ -21,7 +21,7 @@ CurrentlyLearning = new[] {"laravel + PHP"},
   Others = new[] { "Substance 3d", "Touch-designer", "After Effects", "SOME*** blender" },
 };
 ```
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=svmahh" alt="svmahh" /></a> </p>
+
 
 ---
   
