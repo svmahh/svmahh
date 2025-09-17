@@ -7,7 +7,6 @@
 </h3>
 <h4>I have too many hobbies</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=svmahh" alt="svmahh" /></a> </p>
 
 ```C#
  var summer = new
@@ -24,6 +23,7 @@ CurrentlyLearning = new[] {"laravel + PHP"},
 };
 ```
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=svmahh" alt="svmahh" /></a> </p>
 
 ---
   
